@@ -1,1 +1,3 @@
 Name: Yousef 
+uv python install 3.14 --default
+
