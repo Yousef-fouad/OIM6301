@@ -1,3 +1,4 @@
-Name: Yousef 
+print "Name: Yousef"
 uv python install 3.14 --default
+
 
